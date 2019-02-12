@@ -11,3 +11,4 @@
 대사의 
 https://www.t-nation.com/training/why-bodybuilders-are-more-jacked-than-powerlifters
 
+## 블록 주기화의 원리
